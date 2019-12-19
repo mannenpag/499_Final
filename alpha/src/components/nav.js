@@ -46,7 +46,7 @@ const MobileNav = () => {
 		<div className="nav-icon display-md-n position-xs-f" onClick={()=>setSideBarOpen(!sideBarOpen)}>
 			<img src={HamburgerIcon} alt="nav icon"/>
 		</div>
-		<nav className={`p-xs-n position-xs-a mobile-nav ${sideBarOpen?'active':''}`}>
+		<nav className={`p-xs-n position-xs-f mobile-nav ${sideBarOpen?'active':''}`}>
 			<ul className="flex-xs-parent flex-xs-vertical flex-xs-justify-end p-xs-bl p-md-bn">
 				<li className="p-xs-tl">
 					<Link to="/learn" onClick={()=>setSideBarOpen(!sideBarOpen)}>How to pair fonts</Link>

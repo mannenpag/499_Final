@@ -86,7 +86,7 @@ a {
 main {
   height: 100%;
   position: relative;
-  overflow: hidden;
+  overflow: auto;
   article {
     height: 100%;
     overflow: auto;
@@ -119,9 +119,6 @@ nav {
 .content-contain-header {
   z-index: 20;
   background-color: var(--color-purewhite);
-  @include breakpoint("tablet") {
-    border-bottom: 1px solid transparent;
-  }
 }
 
 .hover-underline {
@@ -227,7 +224,9 @@ nav {
     }
   }
   p.txt-purewhite {
-    margin: 4rem 0;
+    @include breakpoint("tablet") {
+      margin: 2rem 0;
+    }
   }
   .btn {
     font-size: 1.1em;
@@ -343,6 +342,10 @@ nav {
       @include setFont($medium, 0.9em);
       color: white;
       height: 50px;
+      display: none;
+      @include breakpoint("tablet") {
+        display: inline;
+      }
     }
     padding: 5em 0 1em;
     margin-left: 2.5%;
