@@ -1,5 +1,5 @@
 # 499_Final
-Font Parent/Pairing website about 
+Web app for pairing fonts and exporting design documents.
 
 ## Link to main deployment
 
