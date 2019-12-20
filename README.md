@@ -20,5 +20,5 @@ https://wnm499finalworkspace.slack.com
 - Chunjia Ouyang [link](https://github.com/chunjiaouyang/499_Final)
 - Lovisa Berglund [link](https://github.com/lovisabe/499_Final)
 - Dino Andrighetto [link](https://github.com/andridino/499_Final)
-- Gustav [link](https://github.com/mannenpag/499_Final)
+- Gustav Bodin [link](https://github.com/mannenpag/499_Final)
 - Hamilton Cline [link](https://github.com/bronkula/499_Final)
