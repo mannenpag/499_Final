@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/font-pairing-app/static/css/main.a328ec8d.chunk.css",
-    "main.js": "/font-pairing-app/static/js/main.7f14d89e.chunk.js",
-    "main.js.map": "/font-pairing-app/static/js/main.7f14d89e.chunk.js.map",
-    "runtime-main.js": "/font-pairing-app/static/js/runtime-main.20169d3c.js",
-    "runtime-main.js.map": "/font-pairing-app/static/js/runtime-main.20169d3c.js.map",
-    "static/js/2.848c9046.chunk.js": "/font-pairing-app/static/js/2.848c9046.chunk.js",
-    "static/js/2.848c9046.chunk.js.map": "/font-pairing-app/static/js/2.848c9046.chunk.js.map",
+    "main.css": "/font-pairing-app/static/css/main.c237d88b.chunk.css",
+    "main.js": "/font-pairing-app/static/js/main.5b968d15.chunk.js",
+    "main.js.map": "/font-pairing-app/static/js/main.5b968d15.chunk.js.map",
+    "runtime-main.js": "/font-pairing-app/static/js/runtime-main.69f662fa.js",
+    "runtime-main.js.map": "/font-pairing-app/static/js/runtime-main.69f662fa.js.map",
+    "static/js/2.e54fcfae.chunk.js": "/font-pairing-app/static/js/2.e54fcfae.chunk.js",
+    "static/js/2.e54fcfae.chunk.js.map": "/font-pairing-app/static/js/2.e54fcfae.chunk.js.map",
     "index.html": "/font-pairing-app/index.html",
-    "precache-manifest.ed965561b2b2dcb03522275bf3fe97c4.js": "/font-pairing-app/precache-manifest.ed965561b2b2dcb03522275bf3fe97c4.js",
+    "precache-manifest.6d50c2d4b3b013bb9615273ab6ba69f0.js": "/font-pairing-app/precache-manifest.6d50c2d4b3b013bb9615273ab6ba69f0.js",
     "service-worker.js": "/font-pairing-app/service-worker.js",
-    "static/css/main.a328ec8d.chunk.css.map": "/font-pairing-app/static/css/main.a328ec8d.chunk.css.map",
-    "static/js/2.848c9046.chunk.js.LICENSE": "/font-pairing-app/static/js/2.848c9046.chunk.js.LICENSE",
+    "static/css/main.c237d88b.chunk.css.map": "/font-pairing-app/static/css/main.c237d88b.chunk.css.map",
     "static/media/icon_settings.svg": "/font-pairing-app/static/media/icon_settings.9af961e1.svg",
     "static/media/star.svg": "/font-pairing-app/static/media/star.6abfa2a9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20169d3c.js",
-    "static/js/2.848c9046.chunk.js",
-    "static/css/main.a328ec8d.chunk.css",
-    "static/js/main.7f14d89e.chunk.js"
+    "static/js/runtime-main.69f662fa.js",
+    "static/js/2.e54fcfae.chunk.js",
+    "static/css/main.c237d88b.chunk.css",
+    "static/js/main.5b968d15.chunk.js"
   ]
 }

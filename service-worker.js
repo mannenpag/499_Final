@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/font-pairing-app/precache-manifest.ed965561b2b2dcb03522275bf3fe97c4.js"
+  "/font-pairing-app/precache-manifest.6d50c2d4b3b013bb9615273ab6ba69f0.js"
 );
 
 self.addEventListener('message', (event) => {
